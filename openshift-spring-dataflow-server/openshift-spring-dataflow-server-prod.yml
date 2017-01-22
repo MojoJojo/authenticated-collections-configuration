@@ -1,6 +1,6 @@
 spring:
   application:
-    name: openshift-spring-dataflow-server
+    name: dataflow-server
   redis:
     host: redis.authenticated-collections.svc
 
