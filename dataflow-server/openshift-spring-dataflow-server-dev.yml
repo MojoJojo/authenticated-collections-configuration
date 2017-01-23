@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dataflow-server
+  redis:
+    host: localhost
+
