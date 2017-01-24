@@ -3,4 +3,5 @@ spring:
     name: dataflow-server
   redis:
     host: redis.authenticated-collections.svc
+    port: 6379
 

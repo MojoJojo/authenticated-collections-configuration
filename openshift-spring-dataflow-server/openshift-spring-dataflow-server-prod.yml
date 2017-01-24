@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: dataflow-server
-  redis:
-    host: redis.authenticated-collections.svc
-
